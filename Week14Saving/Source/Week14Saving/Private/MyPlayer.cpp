@@ -91,7 +91,6 @@ void AMyPlayer::inputLoad(const FInputActionValue& val)
 {
 	const bool LoadVal= val.Get<bool>();
 
-	//UMainSaveGame* loadObj = Cast<UMainSaveGame>(UGameplayStatics::CreateSaveGameObject(UMainSaveGame::StaticClass()));
 	if (saveObj) {
 		SetActorLocation(saveObj->PlayerLocation);
 		SetActorRotation(saveObj->PlayerRotation);
@@ -104,7 +103,7 @@ void AMyPlayer::inputLoad(const FInputActionValue& val)
 void AMyPlayer::inputSave(const FInputActionValue& val)
 {
 	GEngine->AddOnScreenDebugMessage(-1, 1.0f, FColor::White, TEXT("Saved "));
-//	UMainSaveGame* saveObj = Cast<UMainSaveGame>(UGameplayStatics::CreateSaveGameObject(UMainSaveGame::StaticClass()));
+	//UMainSaveGame* saveObj = Cast<UMainSaveGame>(UGameplayStatics::CreateSaveGameObject(UMainSaveGame::StaticClass()));
 	saveObj->PlayerLocation = GetActorLocation();
 	saveObj->PlayerRotation = GetActorRotation();
 	UGameplayStatics::SaveGameToSlot(saveObj, TEXT("Slot1"), 0);
