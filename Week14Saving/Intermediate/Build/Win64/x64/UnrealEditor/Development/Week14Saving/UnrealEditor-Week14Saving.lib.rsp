@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Week14Saving.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\Week14SavingEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\MainSaveGame.gen.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\MyPlayer.gen.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\Week14Saving.init.gen.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\Week14Saving.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\MainSaveGame.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\MyPlayer.cpp.obj"
+"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\Default.rc2.res"
+/OUT:"C:\Users\MessiSensei\Desktop\Github\Week14Saving\Intermediate\Build\Win64\x64\UnrealEditor\Development\Week14Saving\UnrealEditor-Week14Saving.lib"

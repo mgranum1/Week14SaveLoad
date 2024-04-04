@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MessiSensei/Desktop/Github/Week14Saving/Content/Input/IA_Move.uasset",
+				"C:/Users/MessiSensei/Desktop/Github/Week14Saving/Content/Levels/Level1.umap",
+				"C:/Users/MessiSensei/Desktop/Github/Week14Saving/Content/Blueprints/BP_MyPlayer.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Levels/Level1.umap",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Input/IMC_Main.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Input/IA_Load.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Input/IA_Move.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Input/IA_Save.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Blueprints/BP_MyMainGameModeBase.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Blueprints/MyMainGameModeBase.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/Blueprints/BP_MyPlayer.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/IMC_Main.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/IA_Load.uasset",
+				"C:/Users/poros/Documents/Unreal Projects/Week14Saving/Content/IA_Save.uasset"
+			]
+		}
+	]
+}
