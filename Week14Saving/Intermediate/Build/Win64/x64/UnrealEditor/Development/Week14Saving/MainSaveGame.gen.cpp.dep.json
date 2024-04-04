@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marti\\desktop\\github\\ai\\week14saveload\\week14saving\\intermediate\\build\\win64\\unrealeditor\\inc\\week14saving\\uht\\mainsavegame.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marti\\desktop\\github\\ai\\week14saveload\\week14saving\\intermediate\\build\\win64\\x64\\week14savingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marti\\desktop\\github\\ai\\week14saveload\\week14saving\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\week14saving\\definitions.week14saving.h",
+            "c:\\users\\marti\\desktop\\github\\ai\\week14saveload\\week14saving\\source\\week14saving\\public\\mainsavegame.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\savegame.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\savegame.generated.h",
+            "c:\\users\\marti\\desktop\\github\\ai\\week14saveload\\week14saving\\intermediate\\build\\win64\\unrealeditor\\inc\\week14saving\\uht\\mainsavegame.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

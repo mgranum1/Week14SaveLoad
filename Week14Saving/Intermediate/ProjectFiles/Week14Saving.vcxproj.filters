@@ -48,6 +48,9 @@
     <ClCompile Include="..\..\Source\Week14Saving\Private\MyPlayer.cpp">
       <Filter>Source\Week14Saving\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Week14Saving\Private\MySaveGame2.cpp">
+      <Filter>Source\Week14Saving\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Week14Saving\Public">
       <UniqueIdentifier>{8B1BDD21-FF83-3B5E-B064-94B7A89A5921}</UniqueIdentifier>
     </Filter>
@@ -55,6 +58,9 @@
       <Filter>Source\Week14Saving\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\Week14Saving\Public\MyPlayer.h">
+      <Filter>Source\Week14Saving\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Week14Saving\Public\MySaveGame2.h">
       <Filter>Source\Week14Saving\Public</Filter>
     </ClInclude>
   </ItemGroup>
