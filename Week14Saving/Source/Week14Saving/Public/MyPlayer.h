@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
 #include "EnhancedInputComponent.h"
+#include "MainSaveGame.h"
 #include "MyPlayer.generated.h"
 
 
@@ -44,7 +45,5 @@ public:
 	void inputSave(const FInputActionValue& val);
 
 	bool bmove;
-
-
-
+	UMainSaveGame* saveObj;
 };
