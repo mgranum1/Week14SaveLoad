@@ -44,7 +44,7 @@ public:
 	void inputSave(const FInputActionValue& val);
 
 	bool bmove;
-
+	//UMainSaveGame* saveObj;
 
 
 };
